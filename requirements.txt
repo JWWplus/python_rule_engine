@@ -1,0 +1,4 @@
+flask
+business-rules
+uwsgi
+pymongo
